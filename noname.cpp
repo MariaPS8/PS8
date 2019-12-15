@@ -13,6 +13,10 @@ using namespace std;
 	cout << "Mary";
 	}	
 }
+        else {
+           cout << "C++ is cool";
+        } 
+
 	 
 	 return 0;
  	
